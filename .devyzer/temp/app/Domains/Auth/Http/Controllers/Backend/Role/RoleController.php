@@ -13,6 +13,7 @@ use App\Domains\Auth\Services\RoleService;
 /**
  * Class RoleController.
  */
+ /** @OA\Info(title="devyzer-app API", version="0.1") */
 class RoleController
 {
     /**
